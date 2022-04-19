@@ -10,6 +10,8 @@ The word is a compound of
 "machine learning" and 
 the continuous development practice of DevOps 
 in the software field.
+
+Machine learning models are tested and developed in isolated experimental systems. 
 ```
 
 
