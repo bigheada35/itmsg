@@ -34,3 +34,15 @@ a set of practices
 that combines software development (Dev) 
 and IT operations (Ops). 
 ```
+
+## SAP
+```
+SAP SE (/??s.e??pi¢°/) 
+	is a German multinational software corporation 
+		based in Walldorf, Baden-Wurttemberg 
+that develops enterprise software 
+	to manage business operations and customer relations.[2][3] 
+
+The company is especially known 
+	for its enterprise resource planning (ERP) software.
+```
