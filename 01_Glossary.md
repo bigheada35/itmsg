@@ -17,6 +17,13 @@ When an algorithm is ready to be launched,
 MLOps is practiced between Data Scientists, DevOps, and Machine Learning engineers 
 to transition the algorithm to production systems.
 
+
+Similar to DevOps or DataOps approaches, 
+MLOps seeks to increase automation and 
+improve the quality of production models, 
+while also focusing on 
+	business and regulatory requirements.
+
 ```
 
 
