@@ -13,7 +13,9 @@ in the software field.
 
 Machine learning models are tested and developed in isolated experimental systems. 
 
-When an algorithm is ready to be launched, MLOps is practiced between Data Scientists, DevOps, and Machine Learning engineers to transition the algorithm to production systems.
+When an algorithm is ready to be launched, 
+MLOps is practiced between Data Scientists, DevOps, and Machine Learning engineers 
+to transition the algorithm to production systems.
 
 ```
 
