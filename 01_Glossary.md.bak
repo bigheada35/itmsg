@@ -87,5 +87,4 @@ The company is especially known
 2015년부터 Redis Labs가 지원하고 있다. 
 모든 데이터를 메모리로 불러와서 처리하는 메모리 기반 DBMS이다.
 
-레디스는 가장 인기 있는 키-값 저장소이다.
 ```
